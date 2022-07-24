@@ -1,7 +1,7 @@
 # TODO-Application
 React-Native-Webview-Todoo
 
-https://raw.githubusercontent.com/bzozoo/TODO-Application/main/assets/default.png
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/assets/default.png?raw=true)
 
 #### HTML / CSS / JS pack repo
 https://github.com/bzozoo/VUE-ToDo-Panel
