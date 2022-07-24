@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "TODO APP",
+    "description":"ToDO application",
+    "slug": "todoapp",
+    "version": "1.0.0",
+    "scheme": "hu.bzozoo.todooapp",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4caf50"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "hu.bzozoo.todooapp"
+    },
+    "androidNavigationBar": {
+      "backgroundColor": "#4caf50"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "hu.bzozoo.todooapp",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
